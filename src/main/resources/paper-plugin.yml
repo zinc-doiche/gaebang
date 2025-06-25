@@ -1,0 +1,8 @@
+name: Gaebang
+version: '0.1'
+main: com.devport.gaebang.GaebangPlugin
+description: Gaebang Plugin
+api-version: 1.21.6
+bootstrapper: com.devport.gaebang.GaebangBootstrapper
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:2.1.21
